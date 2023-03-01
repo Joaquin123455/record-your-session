@@ -1,0 +1,22 @@
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+  }
+  
+  .StudentA {
+    align-items: center;
+    margin: auto;
+    padding: 5px 15px;
+    background-color: #ebebff;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    color: black;
+    font-family: 'Inter', sans-serif;
+  }
+  
